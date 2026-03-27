@@ -80,7 +80,7 @@ python screenshot_to_text.py
 
 ## 🛠️ Configuration
 
-Settings are saved automatically to `ocr_settings.json` in the same directory as the script. This file is excluded from version control via `.gitignore`.
+Settings are saved automatically to `ocr_settings.json` in the same directory as the script.`
 
 ---
 
